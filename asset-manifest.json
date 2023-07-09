@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95246a9d.css",
+    "main.js": "/static/js/main.296c96b3.js",
+    "static/media/e_commerce2.png": "/static/media/e_commerce2.194d126f3ee646728ca4.png",
+    "static/media/project2.jpg": "/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project3.jpg": "/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/yogesh.jpg": "/static/media/yogesh.c9a28cbd83a2c629cb9b.jpg",
+    "index.html": "/index.html",
+    "main.95246a9d.css.map": "/static/css/main.95246a9d.css.map",
+    "main.296c96b3.js.map": "/static/js/main.296c96b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95246a9d.css",
+    "static/js/main.296c96b3.js"
+  ]
+}
